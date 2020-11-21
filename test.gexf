@@ -1,0 +1,2913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-11-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="color" title="color" type="string"></attribute>
+      <attribute id="linename" title="linename" type="string"></attribute>
+      <attribute id="line" title="line" type="integer"></attribute>
+      <attribute id="degree" title="degree" type="integer"></attribute>
+      <attribute id="eccentricity" title="eccentricity" type="integer"></attribute>
+      <attribute id="closnesscentrality" title="closnesscentrality" type="double"></attribute>
+      <attribute id="harmonicclosnesscentrality" title="harmonicclosnesscentrality" type="double"></attribute>
+      <attribute id="betweenesscentrality" title="betweenesscentrality" type="double"></attribute>
+      <attribute id="clustering" title="clustering" type="integer"></attribute>
+      <attribute id="triangles" title="triangles" type="integer"></attribute>
+      <attribute id="modularity_class" title="modularity_class" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Tucuruvi">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.061611"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.077685"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-351.848" y="-324.78763"></viz:position>
+      </node>
+      <node id="Parada Inglesa">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.065631"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.087555"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="417.04068" y="-418.26703"></viz:position>
+      </node>
+      <node id="Jardim São Paulo - Ayrton Senna">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.070154"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.095221"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.307767" y="-381.9596"></viz:position>
+      </node>
+      <node id="Santana">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.075278"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.102911"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-288.42606" y="81.216095"></viz:position>
+      </node>
+      <node id="Carandiru">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.081133"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.111517"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="354.13522" y="35.74838"></viz:position>
+      </node>
+      <node id="Portuguesa-Tietê (ex Tietê)">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.087884"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.121908"></attvalue>
+          <attvalue for="betweenesscentrality" value="820.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="531.74176" y="396.96457"></viz:position>
+      </node>
+      <node id="Armênia (ex Ponte Pequena)">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.095751"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.135447"></attvalue>
+          <attvalue for="betweenesscentrality" value="978.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="248.52261" y="-319.1027"></viz:position>
+      </node>
+      <node id="Tiradentes">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.105034"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.155048"></attvalue>
+          <attvalue for="betweenesscentrality" value="1134.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-444.1288" y="-324.62234"></viz:position>
+      </node>
+      <node id="Luz">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="21"></attvalue>
+          <attvalue for="closnesscentrality" value="0.116151"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.19021"></attvalue>
+          <attvalue for="betweenesscentrality" value="6572.816667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-266.82245" y="353.75674"></viz:position>
+      </node>
+      <node id="São Bento">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.107987"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.159243"></attvalue>
+          <attvalue for="betweenesscentrality" value="1011.333333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.752956" y="401.99142"></viz:position>
+      </node>
+      <node id="Sé">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.106827"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.161081"></attvalue>
+          <attvalue for="betweenesscentrality" value="1919.866667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-442.65125" y="407.40054"></viz:position>
+      </node>
+      <node id="Japão - Liberdade">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.099882"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.141493"></attvalue>
+          <attvalue for="betweenesscentrality" value="1762.533333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="339.63394" y="-213.16217"></viz:position>
+      </node>
+      <node id="São Joaquim">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.094361"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.13169"></attvalue>
+          <attvalue for="betweenesscentrality" value="1663.533333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-406.6827" y="-34.912327"></viz:position>
+      </node>
+      <node id="Vergueiro">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.09086"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.128105"></attvalue>
+          <attvalue for="betweenesscentrality" value="1594.533333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-340.15536" y="-219.13419"></viz:position>
+      </node>
+      <node id="Paraíso">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.088574"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.131588"></attvalue>
+          <attvalue for="betweenesscentrality" value="1876.533333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="36.471157" y="55.891384"></viz:position>
+      </node>
+      <node id="Ana Rosa">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.085961"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.129857"></attvalue>
+          <attvalue for="betweenesscentrality" value="1183.533333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-48.181858" y="248.23587"></viz:position>
+      </node>
+      <node id="Vila Mariana">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.081446"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.120027"></attvalue>
+          <attvalue for="betweenesscentrality" value="418.933333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.7202425" y="-11.202548"></viz:position>
+      </node>
+      <node id="Santa Cruz">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.080668"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.128591"></attvalue>
+          <attvalue for="betweenesscentrality" value="2270.366667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="318.32394" y="511.6815"></viz:position>
+      </node>
+      <node id="Praça da Árvore">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.074945"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.111918"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="379.2061" y="-193.99976"></viz:position>
+      </node>
+      <node id="Saúde">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.069921"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.101645"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="486.06107" y="86.7637"></viz:position>
+      </node>
+      <node id="São Judas">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.065478"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.093409"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.70419043" y="-417.11676"></viz:position>
+      </node>
+      <node id="Conceição">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="34"></attvalue>
+          <attvalue for="closnesscentrality" value="0.061522"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.08559"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-308.6729" y="-74.27127"></viz:position>
+      </node>
+      <node id="Jabaquara">
+        <attvalues>
+          <attvalue for="color" value="#5595c0"></attvalue>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="35"></attvalue>
+          <attvalue for="closnesscentrality" value="0.057976"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.075726"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.813261" y="-324.8215"></viz:position>
+      </node>
+      <node id="Vila Madalena">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.058559"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.074803"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-202.70374" y="-97.1904"></viz:position>
+      </node>
+      <node id="Sumaré">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.062178"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.084289"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-366.02887" y="-246.94308"></viz:position>
+      </node>
+      <node id="Clínicas">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.066223"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.091498"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.48538" y="-409.80252"></viz:position>
+      </node>
+      <node id="Consolação">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.070771"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.098657"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="521.5308" y="-392.59006"></viz:position>
+      </node>
+      <node id="Trianon-Masp">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.075921"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.106692"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-81.46332" y="-402.45972"></viz:position>
+      </node>
+      <node id="Brigadeiro">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.081801"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.116703"></attvalue>
+          <attvalue for="betweenesscentrality" value="820.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.578275" y="265.3398"></viz:position>
+      </node>
+      <node id="Chácara Klabin">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.08501"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.1316"></attvalue>
+          <attvalue for="betweenesscentrality" value="2040.933333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.799472" y="-122.29147"></viz:position>
+      </node>
+      <node id="Santos-Imigrantes">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.087838"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.126567"></attvalue>
+          <attvalue for="betweenesscentrality" value="1662.833333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="407.86514" y="-90.11566"></viz:position>
+      </node>
+      <node id="Alto do Ipiranga">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.091748"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.128945"></attvalue>
+          <attvalue for="betweenesscentrality" value="1744.333333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-205.14197" y="437.70224"></viz:position>
+      </node>
+      <node id="Sacomã">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.096187"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.136421"></attvalue>
+          <attvalue for="betweenesscentrality" value="1829.333333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-19.820955" y="463.2598"></viz:position>
+      </node>
+      <node id="Tamanduateí">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.101198"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.152595"></attvalue>
+          <attvalue for="betweenesscentrality" value="4086.833333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.05301" y="-164.04501"></viz:position>
+      </node>
+      <node id="Vila Prudente">
+        <attvalues>
+          <attvalue for="color" value="#56aab2"></attvalue>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.092857"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.132216"></attvalue>
+          <attvalue for="betweenesscentrality" value="1440.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-273.33426" y="463.41287"></viz:position>
+      </node>
+      <node id="Palmeiras-Barra Funda">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="20"></attvalue>
+          <attvalue for="closnesscentrality" value="0.109456"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.173654"></attvalue>
+          <attvalue for="betweenesscentrality" value="4064.55"></attvalue>
+          <attvalue for="triangles" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="41.612514" y="-304.07663"></viz:position>
+      </node>
+      <node id="Marechal Deodoro">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="21"></attvalue>
+          <attvalue for="closnesscentrality" value="0.100535"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.144493"></attvalue>
+          <attvalue for="betweenesscentrality" value="38.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="523.0651" y="40.431118"></viz:position>
+      </node>
+      <node id="Santa Cecília">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.101624"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.144122"></attvalue>
+          <attvalue for="betweenesscentrality" value="41.033333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="380.6555" y="220.73465"></viz:position>
+      </node>
+      <node id="República">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.110098"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.168834"></attvalue>
+          <attvalue for="betweenesscentrality" value="2308.683333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.51749" y="382.36813"></viz:position>
+      </node>
+      <node id="Anhangabaú">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.102798"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.147401"></attvalue>
+          <attvalue for="betweenesscentrality" value="368.866667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-316.09476" y="354.79623"></viz:position>
+      </node>
+      <node id="Pedro II">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.10703"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.159654"></attvalue>
+          <attvalue for="betweenesscentrality" value="589.5"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="152.54147" y="69.299286"></viz:position>
+      </node>
+      <node id="Brás">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.116071"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.190444"></attvalue>
+          <attvalue for="betweenesscentrality" value="6850.5"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-140.81409" y="-194.34528"></viz:position>
+      </node>
+      <node id="Bresser-Mooca">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.104192"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.15202"></attvalue>
+          <attvalue for="betweenesscentrality" value="67.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="66.98111" y="49.92898"></viz:position>
+      </node>
+      <node id="Belém">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.098142"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.144993"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="84.36368" y="-386.97522"></viz:position>
+      </node>
+      <node id="Tatuapé">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.108612"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.181636"></attvalue>
+          <attvalue for="betweenesscentrality" value="4847.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-214.8353" y="-163.16846"></viz:position>
+      </node>
+      <node id="Carrão">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.098715"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.14834"></attvalue>
+          <attvalue for="betweenesscentrality" value="978.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-439.46533" y="331.79037"></viz:position>
+      </node>
+      <node id="Penha">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.090374"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.130058"></attvalue>
+          <attvalue for="betweenesscentrality" value="820.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-41.78757" y="-295.58798"></viz:position>
+      </node>
+      <node id="Vila Matilde">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.083251"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.117284"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="516.2322" y="181.91489"></viz:position>
+      </node>
+      <node id="Guilhermina-Esperança">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.077099"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.107262"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-109.62332" y="287.93442"></viz:position>
+      </node>
+      <node id="Patriarca">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.071732"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.098645"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.603054" y="-289.42215"></viz:position>
+      </node>
+      <node id="Artur Alvim">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.06701"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.090332"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-428.50717" y="2.4703953"></viz:position>
+      </node>
+      <node id="Corinthians-Itaquera">
+        <attvalues>
+          <attvalue for="color" value="#e33f35"></attvalue>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.062825"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.079989"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="88.822296" y="-389.50952"></viz:position>
+      </node>
+      <node id="São Paulo-Morumbi">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.071915"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.093153"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.93564" y="127.37955"></viz:position>
+      </node>
+      <node id="Butantã">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.077452"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.107987"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-79.41281" y="343.2238"></viz:position>
+      </node>
+      <node id="Pinheiros">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.083829"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.126514"></attvalue>
+          <attvalue for="betweenesscentrality" value="2562.3"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="415.20145" y="234.94211"></viz:position>
+      </node>
+      <node id="Faria Lima">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="21"></attvalue>
+          <attvalue for="closnesscentrality" value="0.085613"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.119351"></attvalue>
+          <attvalue for="betweenesscentrality" value="1685.15"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.649904" y="127.51645"></viz:position>
+      </node>
+      <node id="Fradique Coutinho">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.088807"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.119917"></attvalue>
+          <attvalue for="betweenesscentrality" value="1749.65"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="324.57706" y="-118.980865"></viz:position>
+      </node>
+      <node id="Oscar Freire">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.09235"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.123943"></attvalue>
+          <attvalue for="betweenesscentrality" value="1822.65"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-113.97879" y="-330.0878"></viz:position>
+      </node>
+      <node id="Paulista">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.096296"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.131371"></attvalue>
+          <attvalue for="betweenesscentrality" value="1905.65"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="340.76047" y="121.12778"></viz:position>
+      </node>
+      <node id="Higienópolis-Mackenzie">
+        <attvalues>
+          <attvalue for="color" value="#ffd500"></attvalue>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.102673"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.144657"></attvalue>
+          <attvalue for="betweenesscentrality" value="2006.65"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="199.19254" y="-261.29037"></viz:position>
+      </node>
+      <node id="Capão Redondo">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.050343"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.069432"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-430.2673" y="467.072"></viz:position>
+      </node>
+      <node id="Campo Limpo">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.052995"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.078825"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="304.5038" y="312.08957"></viz:position>
+      </node>
+      <node id="Vila das Belezas">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.055905"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.086335"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-266.9152" y="357.28067"></viz:position>
+      </node>
+      <node id="Giovanni Gronchi">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.059112"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.094934"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="288.59274" y="-432.58127"></viz:position>
+      </node>
+      <node id="Santo Amaro">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.062662"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.109074"></attvalue>
+          <attvalue for="betweenesscentrality" value="1934.633333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="99.34378" y="78.26193"></viz:position>
+      </node>
+      <node id="Largo Treze">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.061188"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.098332"></attvalue>
+          <attvalue for="betweenesscentrality" value="873.133333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.140774" y="421.1102"></viz:position>
+      </node>
+      <node id="Adolfo Pinheiro">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.059844"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.093562"></attvalue>
+          <attvalue for="betweenesscentrality" value="829.8"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-349.93243" y="345.08847"></viz:position>
+      </node>
+      <node id="Alto da Boa Vista">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.060164"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.091797"></attvalue>
+          <attvalue for="betweenesscentrality" value="833.916667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-248.15286" y="-322.9449"></viz:position>
+      </node>
+      <node id="Borba Gato">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.061033"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.091547"></attvalue>
+          <attvalue for="betweenesscentrality" value="881.366667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="87.79495" y="425.58945"></viz:position>
+      </node>
+      <node id="Brooklin">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.062639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.092484"></attvalue>
+          <attvalue for="betweenesscentrality" value="949.616667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="188.73373" y="96.52237"></viz:position>
+      </node>
+      <node id="Campo Belo">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.064381"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.094209"></attvalue>
+          <attvalue for="betweenesscentrality" value="1023.116667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-444.36786" y="-224.07022"></viz:position>
+      </node>
+      <node id="Eucaliptos">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="34"></attvalue>
+          <attvalue for="closnesscentrality" value="0.066275"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.096774"></attvalue>
+          <attvalue for="betweenesscentrality" value="1110.616667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="85.00369" y="-136.44489"></viz:position>
+      </node>
+      <node id="Moema">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.069234"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.100666"></attvalue>
+          <attvalue for="betweenesscentrality" value="1216.116667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="357.20267" y="-355.48254"></viz:position>
+      </node>
+      <node id="AACD-Servidor">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.072532"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.106021"></attvalue>
+          <attvalue for="betweenesscentrality" value="1327.616667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-76.253235" y="-12.722629"></viz:position>
+      </node>
+      <node id="Hospital São Paulo">
+        <attvalues>
+          <attvalue for="color" value="#7e00f8"></attvalue>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.076332"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.113971"></attvalue>
+          <attvalue for="betweenesscentrality" value="1443.366667"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-459.1173" y="-3.3147304"></viz:position>
+      </node>
+      <node id="Água Branca">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="20"></attvalue>
+          <attvalue for="closnesscentrality" value="0.102177"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.146479"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="1"></attvalue>
+          <attvalue for="triangles" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-333.8951" y="156.1553"></viz:position>
+      </node>
+      <node id="Lapa">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="19"></attvalue>
+          <attvalue for="closnesscentrality" value="0.105823"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.159075"></attvalue>
+          <attvalue for="betweenesscentrality" value="4321.483333"></attvalue>
+          <attvalue for="triangles" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-56.310764" y="414.35355"></viz:position>
+      </node>
+      <node id="Piqueri">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="20"></attvalue>
+          <attvalue for="closnesscentrality" value="0.097071"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.136678"></attvalue>
+          <attvalue for="betweenesscentrality" value="1884.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-210.91766" y="439.1414"></viz:position>
+      </node>
+      <node id="Pirituba">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="21"></attvalue>
+          <attvalue for="closnesscentrality" value="0.08956"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.123288"></attvalue>
+          <attvalue for="betweenesscentrality" value="1738.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="177.88406" y="332.88565"></viz:position>
+      </node>
+      <node id="Vila Clarice">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.083047"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.113639"></attvalue>
+          <attvalue for="betweenesscentrality" value="1590.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-55.995823" y="14.762174"></viz:position>
+      </node>
+      <node id="Jaraguá">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.077346"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.106103"></attvalue>
+          <attvalue for="betweenesscentrality" value="1440.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="87.30124" y="91.60867"></viz:position>
+      </node>
+      <node id="Perus">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.072315"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.099916"></attvalue>
+          <attvalue for="betweenesscentrality" value="1288.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.697325" y="-198.40695"></viz:position>
+      </node>
+      <node id="Caieiras">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.067844"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.094643"></attvalue>
+          <attvalue for="betweenesscentrality" value="1134.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="400.60196" y="-205.0231"></viz:position>
+      </node>
+      <node id="Franco da Rocha">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.063846"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.09"></attvalue>
+          <attvalue for="betweenesscentrality" value="978.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-364.21054" y="462.19705"></viz:position>
+      </node>
+      <node id="Baltazar Fidélis">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.06025"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.08578"></attvalue>
+          <attvalue for="betweenesscentrality" value="820.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.89536" y="-91.88522"></viz:position>
+      </node>
+      <node id="Francisco Morato">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.056998"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.081807"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-406.9094" y="-242.51376"></viz:position>
+      </node>
+      <node id="Botujuru">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.054045"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.077894"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="57.535427" y="-156.5152"></viz:position>
+      </node>
+      <node id="Campo Limpo Paulista">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.051352"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.073781"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.157196" y="-360.40198"></viz:position>
+      </node>
+      <node id="Várzea Paulista">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.048886"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.068924"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="336.9872" y="-465.3189"></viz:position>
+      </node>
+      <node id="Jundiaí">
+        <attvalues>
+          <attvalue for="color" value="#a3246a"></attvalue>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.046621"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.061311"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="264.69363" y="-211.23874"></viz:position>
+      </node>
+      <node id="Júlio Prestes">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="21"></attvalue>
+          <attvalue for="closnesscentrality" value="0.098715"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.137126"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.572447" y="138.85953"></viz:position>
+      </node>
+      <node id="Domingos de Moraes">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="18"></attvalue>
+          <attvalue for="closnesscentrality" value="0.100896"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.140671"></attvalue>
+          <attvalue for="betweenesscentrality" value="2796.733333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-378.4305" y="523.2597"></viz:position>
+      </node>
+      <node id="Imperatriz Leopoldina">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="19"></attvalue>
+          <attvalue for="closnesscentrality" value="0.096516"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.132248"></attvalue>
+          <attvalue for="betweenesscentrality" value="2720.233333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-76.30011" y="-438.9279"></viz:position>
+      </node>
+      <node id="Presidente Altino">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="20"></attvalue>
+          <attvalue for="closnesscentrality" value="0.092603"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.130711"></attvalue>
+          <attvalue for="betweenesscentrality" value="3153.733333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-181.80484" y="141.48373"></viz:position>
+      </node>
+      <node id="Osasco">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="21"></attvalue>
+          <attvalue for="closnesscentrality" value="0.086093"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.117834"></attvalue>
+          <attvalue for="betweenesscentrality" value="2310.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="64.59958" y="451.78134"></viz:position>
+      </node>
+      <node id="Comandante Sampaio">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.080361"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.109372"></attvalue>
+          <attvalue for="betweenesscentrality" value="2170.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="478.82614" y="-208.80762"></viz:position>
+      </node>
+      <node id="Quitaúna">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.075278"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.102887"></attvalue>
+          <attvalue for="betweenesscentrality" value="2028.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-213.33203" y="-306.91278"></viz:position>
+      </node>
+      <node id="General Miguel Costa (ex km 21)">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.070741"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.097602"></attvalue>
+          <attvalue for="betweenesscentrality" value="1884.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="227.83084" y="-96.506195"></viz:position>
+      </node>
+      <node id="Carapicuíba">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.066667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.093131"></attvalue>
+          <attvalue for="betweenesscentrality" value="1738.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-297.60245" y="159.70956"></viz:position>
+      </node>
+      <node id="Santa Terezinha">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.062989"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.089244"></attvalue>
+          <attvalue for="betweenesscentrality" value="1590.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="144.07999" y="77.68112"></viz:position>
+      </node>
+      <node id="Antônio João">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.059654"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.085786"></attvalue>
+          <attvalue for="betweenesscentrality" value="1440.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.10373" y="-282.47653"></viz:position>
+      </node>
+      <node id="Barueri">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.056616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.082644"></attvalue>
+          <attvalue for="betweenesscentrality" value="1288.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="295.6702" y="57.946438"></viz:position>
+      </node>
+      <node id="Jardim Belval">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.053839"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.079728"></attvalue>
+          <attvalue for="betweenesscentrality" value="1134.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-30.646181" y="5.4550753"></viz:position>
+      </node>
+      <node id="Jardim Silveira">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.05129"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.076961"></attvalue>
+          <attvalue for="betweenesscentrality" value="978.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-69.66931" y="104.12747"></viz:position>
+      </node>
+      <node id="Jandira">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.048943"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.074264"></attvalue>
+          <attvalue for="betweenesscentrality" value="820.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="187.9515" y="-464.19678"></viz:position>
+      </node>
+      <node id="Sagrado Coração">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.046776"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.071549"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="268.93045" y="-373.9761"></viz:position>
+      </node>
+      <node id="Engenheiro Cardoso">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.044768"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.06869"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-297.47714" y="43.55795"></viz:position>
+      </node>
+      <node id="Itapevi">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="34"></attvalue>
+          <attvalue for="closnesscentrality" value="0.042904"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.065469"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.17511" y="424.45358"></viz:position>
+      </node>
+      <node id="Santa Rita">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="35"></attvalue>
+          <attvalue for="closnesscentrality" value="0.041169"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.061376"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.8035" y="-182.95245"></viz:position>
+      </node>
+      <node id="Amador Bueno">
+        <attvalues>
+          <attvalue for="color" value="#a6a49b"></attvalue>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="36"></attvalue>
+          <attvalue for="closnesscentrality" value="0.039551"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.054424"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="280.35037" y="262.10208"></viz:position>
+      </node>
+      <node id="Ceasa">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="21"></attvalue>
+          <attvalue for="closnesscentrality" value="0.08761"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.120589"></attvalue>
+          <attvalue for="betweenesscentrality" value="1109.233333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-331.4337" y="-49.748325"></viz:position>
+      </node>
+      <node id="Vila Lobos-Jaguaré">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="22"></attvalue>
+          <attvalue for="closnesscentrality" value="0.08321"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.115587"></attvalue>
+          <attvalue for="betweenesscentrality" value="1007.233333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-191.40378" y="-226.64944"></viz:position>
+      </node>
+      <node id="Cidade Universitária">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.080209"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.115031"></attvalue>
+          <attvalue for="betweenesscentrality" value="966.15"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="165.06863" y="71.37637"></viz:position>
+      </node>
+      <node id="Hebraica-Rebouças">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.079157"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.113413"></attvalue>
+          <attvalue for="betweenesscentrality" value="2012.633333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-306.34634" y="-85.34851"></viz:position>
+      </node>
+      <node id="Cidade Jardim">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.075145"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.106676"></attvalue>
+          <attvalue for="betweenesscentrality" value="1898.633333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-134.89645" y="122.795135"></viz:position>
+      </node>
+      <node id="Vila Olímpia">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.071701"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.102503"></attvalue>
+          <attvalue for="betweenesscentrality" value="1791.133333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="45.860806" y="255.65256"></viz:position>
+      </node>
+      <node id="Berrini">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.068643"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.100025"></attvalue>
+          <attvalue for="betweenesscentrality" value="1686.133333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.32724" y="194.21725"></viz:position>
+      </node>
+      <node id="Morumbi">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.066041"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.099252"></attvalue>
+          <attvalue for="betweenesscentrality" value="1589.133333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-313.86533" y="416.1544"></viz:position>
+      </node>
+      <node id="Granja Julieta">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.063822"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.100896"></attvalue>
+          <attvalue for="betweenesscentrality" value="1509.633333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-349.9959" y="243.95322"></viz:position>
+      </node>
+      <node id="Socorro">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.059153"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.095427"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-244.69989" y="-134.88254"></viz:position>
+      </node>
+      <node id="Jurubatuba">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.055979"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.087462"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-120.42383" y="-217.59634"></viz:position>
+      </node>
+      <node id="Autódromo">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.053095"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.081044"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-349.60373" y="115.31955"></viz:position>
+      </node>
+      <node id="Primavera-Interlagos">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.050463"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.074692"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-406.84668" y="237.40793"></viz:position>
+      </node>
+      <node id="Grajaú">
+        <attvalues>
+          <attvalue for="color" value="#00af90"></attvalue>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="34"></attvalue>
+          <attvalue for="closnesscentrality" value="0.048052"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.066033"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.26224" y="70.89554"></viz:position>
+      </node>
+      <node id="Mooca">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="23"></attvalue>
+          <attvalue for="closnesscentrality" value="0.109598"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.162058"></attvalue>
+          <attvalue for="betweenesscentrality" value="3355.333333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-162.11475" y="-227.15619"></viz:position>
+      </node>
+      <node id="Ipiranga">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.104385"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.151038"></attvalue>
+          <attvalue for="betweenesscentrality" value="3282.833333"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="247.27225" y="-85.12485"></viz:position>
+      </node>
+      <node id="São Caetano">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.092755"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.132096"></attvalue>
+          <attvalue for="betweenesscentrality" value="1288.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.22244" y="-210.11945"></viz:position>
+      </node>
+      <node id="Utinga">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.085526"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.119488"></attvalue>
+          <attvalue for="betweenesscentrality" value="1134.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-227.08698" y="459.96738"></viz:position>
+      </node>
+      <node id="Prefeito Saladino">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.079268"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.110109"></attvalue>
+          <attvalue for="betweenesscentrality" value="978.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="58.3417" y="204.5419"></viz:position>
+      </node>
+      <node id="Prefeito Celso Daniel - Santo André">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.073799"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.102531"></attvalue>
+          <attvalue for="betweenesscentrality" value="820.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="191.96475" y="328.22195"></viz:position>
+      </node>
+      <node id="Capuava">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.06898"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.096045"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-132.02585" y="-134.25293"></viz:position>
+      </node>
+      <node id="Mauá">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.064701"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.090184"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="293.3679" y="-326.16757"></viz:position>
+      </node>
+      <node id="Guapituba">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.060879"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.084519"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.02966" y="154.75241"></viz:position>
+      </node>
+      <node id="Ribeirão Pires">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.057444"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.078401"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="105.42862" y="418.2274"></viz:position>
+      </node>
+      <node id="Rio Grande da Serra">
+        <attvalues>
+          <attvalue for="color" value="#52adc7"></attvalue>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="34"></attvalue>
+          <attvalue for="closnesscentrality" value="0.054341"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.069747"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-179.36472" y="-110.07321"></viz:position>
+      </node>
+      <node id="Itaquera">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.099588"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.14926"></attvalue>
+          <attvalue for="betweenesscentrality" value="1944.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-441.164" y="127.729034"></viz:position>
+      </node>
+      <node id="Dom Bosco">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.091948"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.132096"></attvalue>
+          <attvalue for="betweenesscentrality" value="1803.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-115.19064" y="150.04904"></viz:position>
+      </node>
+      <node id="José Bonifácio">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.085397"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.120727"></attvalue>
+          <attvalue for="betweenesscentrality" value="1662.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.033322" y="-268.5579"></viz:position>
+      </node>
+      <node id="Guaianases">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.079717"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.112549"></attvalue>
+          <attvalue for="betweenesscentrality" value="1521.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-253.1325" y="-475.17337"></viz:position>
+      </node>
+      <node id="Antônio Gianetti Neto">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.074746"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.106501"></attvalue>
+          <attvalue for="betweenesscentrality" value="1380.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="324.80807" y="250.66763"></viz:position>
+      </node>
+      <node id="Ferraz de Vasconcelos">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.070358"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.102156"></attvalue>
+          <attvalue for="betweenesscentrality" value="1239.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.2543" y="-396.91068"></viz:position>
+      </node>
+      <node id="Poá">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.066457"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.099626"></attvalue>
+          <attvalue for="betweenesscentrality" value="1098.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="322.53397" y="-408.97995"></viz:position>
+      </node>
+      <node id="Calmon Viana">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.062966"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.100614"></attvalue>
+          <attvalue for="betweenesscentrality" value="1002.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="456.86728" y="217.12186"></viz:position>
+      </node>
+      <node id="Suzano">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.059423"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.091299"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="390.31863" y="234.55807"></viz:position>
+      </node>
+      <node id="Jundiapeba">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.056221"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.084971"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="253.54697" y="75.85654"></viz:position>
+      </node>
+      <node id="Brás Cubas">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="34"></attvalue>
+          <attvalue for="closnesscentrality" value="0.053312"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.079398"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="363.38272" y="361.62338"></viz:position>
+      </node>
+      <node id="Mogi das Cruzes">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="35"></attvalue>
+          <attvalue for="closnesscentrality" value="0.050659"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.073545"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-150.8732" y="-59.84589"></viz:position>
+      </node>
+      <node id="Estudantes">
+        <attvalues>
+          <attvalue for="color" value="#ff4c1b"></attvalue>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="36"></attvalue>
+          <attvalue for="closnesscentrality" value="0.048231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.065206"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="89.313995" y="-469.28732"></viz:position>
+      </node>
+      <node id="Engenheiro Goulart">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.099004"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.148741"></attvalue>
+          <attvalue for="betweenesscentrality" value="1204.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.94107" y="420.15976"></viz:position>
+      </node>
+      <node id="USP Leste">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.091203"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.131224"></attvalue>
+          <attvalue for="betweenesscentrality" value="1058.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.58807" y="-450.4063"></viz:position>
+      </node>
+      <node id="Comendador Ermelino">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.084754"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.119642"></attvalue>
+          <attvalue for="betweenesscentrality" value="917.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-133.6135" y="-192.27133"></viz:position>
+      </node>
+      <node id="São Miguel Paulista">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.079157"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.111157"></attvalue>
+          <attvalue for="betweenesscentrality" value="776.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.15835" y="-417.9944"></viz:position>
+      </node>
+      <node id="Jardim Helena-Vila Mara">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.074253"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.104639"></attvalue>
+          <attvalue for="betweenesscentrality" value="635.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-111.925446" y="96.17331"></viz:position>
+      </node>
+      <node id="Itaim Paulista">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.069921"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.09951"></attvalue>
+          <attvalue for="betweenesscentrality" value="494.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-363.08017" y="-148.32968"></viz:position>
+      </node>
+      <node id="Jardim Romano">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.066067"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.095458"></attvalue>
+          <attvalue for="betweenesscentrality" value="353.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="330.311" y="485.09195"></viz:position>
+      </node>
+      <node id="Engenheiro Manoel Feio">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.062616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.092337"></attvalue>
+          <attvalue for="betweenesscentrality" value="212.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="500.30728" y="-471.02933"></viz:position>
+      </node>
+      <node id="Itaquaquecetuba">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.059507"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.090171"></attvalue>
+          <attvalue for="betweenesscentrality" value="71.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-239.91849" y="219.79733"></viz:position>
+      </node>
+      <node id="Aracaré">
+        <attvalues>
+          <attvalue for="color" value="#063b88"></attvalue>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.059612"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.092285"></attvalue>
+          <attvalue for="betweenesscentrality" value="76.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="240.19034" y="515.53754"></viz:position>
+      </node>
+      <node id="Eng. Goulart">
+        <attvalues>
+          <attvalue for="color" value="#19b05c"></attvalue>
+          <attvalue for="linename" value="Jade"></attvalue>
+          <attvalue for="line" value="13"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="24"></attvalue>
+          <attvalue for="closnesscentrality" value="0.098256"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.146473"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-200.5809" y="-427.12994"></viz:position>
+      </node>
+      <node id="Guarulhos-Cecap">
+        <attvalues>
+          <attvalue for="color" value="#19b05c"></attvalue>
+          <attvalue for="linename" value="Jade"></attvalue>
+          <attvalue for="line" value="13"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="25"></attvalue>
+          <attvalue for="closnesscentrality" value="0.089608"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.125693"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="363.18155" y="-121.88193"></viz:position>
+      </node>
+      <node id="Aeroporto-Guarulhos">
+        <attvalues>
+          <attvalue for="color" value="#19b05c"></attvalue>
+          <attvalue for="linename" value="Jade"></attvalue>
+          <attvalue for="line" value="13"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="26"></attvalue>
+          <attvalue for="closnesscentrality" value="0.082278"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.10779"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-178.02634" y="139.62045"></viz:position>
+      </node>
+      <node id="Oratório">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="27"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0857"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.119735"></attvalue>
+          <attvalue for="betweenesscentrality" value="1288.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="136.47867" y="-374.51855"></viz:position>
+      </node>
+      <node id="São Lucas">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="28"></attvalue>
+          <attvalue for="closnesscentrality" value="0.079492"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.1105"></attvalue>
+          <attvalue for="betweenesscentrality" value="1134.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-155.20029" y="389.75052"></viz:position>
+      </node>
+      <node id="Camilo Haddad">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="29"></attvalue>
+          <attvalue for="closnesscentrality" value="0.074058"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.103094"></attvalue>
+          <attvalue for="betweenesscentrality" value="978.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="204.27176" y="370.75168"></viz:position>
+      </node>
+      <node id="Vila Tolstói">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="30"></attvalue>
+          <attvalue for="closnesscentrality" value="0.069262"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.096834"></attvalue>
+          <attvalue for="betweenesscentrality" value="820.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="81.82327" y="-405.73505"></viz:position>
+      </node>
+      <node id="Vila União">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="31"></attvalue>
+          <attvalue for="closnesscentrality" value="0.065"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.091293"></attvalue>
+          <attvalue for="betweenesscentrality" value="660.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="242.49265" y="176.4379"></viz:position>
+      </node>
+      <node id="Jd. Planalto">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="32"></attvalue>
+          <attvalue for="closnesscentrality" value="0.061188"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.086143"></attvalue>
+          <attvalue for="betweenesscentrality" value="498.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="388.14462" y="-170.31259"></viz:position>
+      </node>
+      <node id="Sapopemba">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="33"></attvalue>
+          <attvalue for="closnesscentrality" value="0.057758"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.08103"></attvalue>
+          <attvalue for="betweenesscentrality" value="334.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-366.49493" y="-459.43173"></viz:position>
+      </node>
+      <node id="Fazenda da Juta">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="34"></attvalue>
+          <attvalue for="closnesscentrality" value="0.054657"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.075353"></attvalue>
+          <attvalue for="betweenesscentrality" value="168.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-256.7215" y="-249.1022"></viz:position>
+      </node>
+      <node id="São Mateus">
+        <attvalues>
+          <attvalue for="color" value="#7b9192"></attvalue>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="35"></attvalue>
+          <attvalue for="closnesscentrality" value="0.05184"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.067057"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="clustering" value="0"></attvalue>
+          <attvalue for="triangles" value="0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="514.40283" y="49.71316"></viz:position>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>
