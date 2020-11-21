@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-11-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="linename" title="linename" type="string"></attribute>
+      <attribute id="line" title="line" type="integer"></attribute>
+      <attribute id="degree" title="degree" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Tucuruvi">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-70.88585" y="173.17682"></viz:position>
+      </node>
+      <node id="Parada Inglesa">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-95.94475" y="-56.013435"></viz:position>
+      </node>
+      <node id="Jardim São Paulo - Ayrton Senna">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-230.91829" y="293.20154"></viz:position>
+      </node>
+      <node id="Santana">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="68.40929" y="367.33862"></viz:position>
+      </node>
+      <node id="Carandiru">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-284.89108" y="132.2815"></viz:position>
+      </node>
+      <node id="Portuguesa-Tietê (ex Tietê)">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="343.58316" y="-238.96075"></viz:position>
+      </node>
+      <node id="Armênia (ex Ponte Pequena)">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.1049" y="185.09534"></viz:position>
+      </node>
+      <node id="Tiradentes">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.43242" y="449.45837"></viz:position>
+      </node>
+      <node id="Luz">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="101.818405" y="468.59326"></viz:position>
+      </node>
+      <node id="São Bento">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="404.75687" y="-114.51432"></viz:position>
+      </node>
+      <node id="Sé">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-472.3975" y="-33.280983"></viz:position>
+      </node>
+      <node id="Japão - Liberdade">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.521868" y="190.78076"></viz:position>
+      </node>
+      <node id="São Joaquim">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-403.05063" y="413.65686"></viz:position>
+      </node>
+      <node id="Vergueiro">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.45763" y="124.52941"></viz:position>
+      </node>
+      <node id="Paraíso">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="450.38858" y="375.10675"></viz:position>
+      </node>
+      <node id="Ana Rosa">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="451.915" y="-90.55274"></viz:position>
+      </node>
+      <node id="Vila Mariana">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="119.32152" y="-91.62052"></viz:position>
+      </node>
+      <node id="Santa Cruz">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-41.245228" y="-444.3139"></viz:position>
+      </node>
+      <node id="Praça da Árvore">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-75.78566" y="434.6435"></viz:position>
+      </node>
+      <node id="Saúde">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="61.713726" y="66.462944"></viz:position>
+      </node>
+      <node id="São Judas">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-336.87866" y="-159.55649"></viz:position>
+      </node>
+      <node id="Conceição">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="177.09233" y="183.6449"></viz:position>
+      </node>
+      <node id="Jabaquara">
+        <attvalues>
+          <attvalue for="linename" value="Azul"></attvalue>
+          <attvalue for="line" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-216.8047" y="240.65051"></viz:position>
+      </node>
+      <node id="Vila Madalena">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="200.93321" y="137.18805"></viz:position>
+      </node>
+      <node id="Sumaré">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-177.43065" y="281.29156"></viz:position>
+      </node>
+      <node id="Clínicas">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-262.13544" y="199.2417"></viz:position>
+      </node>
+      <node id="Consolação">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="285.97098" y="338.2469"></viz:position>
+      </node>
+      <node id="Trianon-Masp">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-183.5754" y="-288.10577"></viz:position>
+      </node>
+      <node id="Brigadeiro">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-225.34477" y="476.59088"></viz:position>
+      </node>
+      <node id="Chácara Klabin">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-279.4629" y="-343.04987"></viz:position>
+      </node>
+      <node id="Santos-Imigrantes">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-370.27927" y="-424.60706"></viz:position>
+      </node>
+      <node id="Alto do Ipiranga">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-229.09142" y="-233.20782"></viz:position>
+      </node>
+      <node id="Sacomã">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-432.40103" y="-405.91748"></viz:position>
+      </node>
+      <node id="Tamanduateí">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="375.4694" y="-362.70285"></viz:position>
+      </node>
+      <node id="Vila Prudente">
+        <attvalues>
+          <attvalue for="linename" value="Verde"></attvalue>
+          <attvalue for="line" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-212.51653" y="-440.97772"></viz:position>
+      </node>
+      <node id="Palmeiras-Barra Funda">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="434.58237" y="296.93658"></viz:position>
+      </node>
+      <node id="Marechal Deodoro">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.3073" y="482.7226"></viz:position>
+      </node>
+      <node id="Santa Cecília">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.59538" y="210.60913"></viz:position>
+      </node>
+      <node id="República">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.56386" y="93.16845"></viz:position>
+      </node>
+      <node id="Anhangabaú">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="292.41293" y="-247.58517"></viz:position>
+      </node>
+      <node id="Pedro II">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="127.180466" y="-52.979164"></viz:position>
+      </node>
+      <node id="Brás">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="224.11821" y="-231.50522"></viz:position>
+      </node>
+      <node id="Bresser-Mooca">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-365.2114" y="227.992"></viz:position>
+      </node>
+      <node id="Belém">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-397.72766" y="-30.774298"></viz:position>
+      </node>
+      <node id="Tatuapé">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.16823" y="290.48346"></viz:position>
+      </node>
+      <node id="Carrão">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-60.62444" y="-460.5291"></viz:position>
+      </node>
+      <node id="Penha">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="414.95004" y="-201.38434"></viz:position>
+      </node>
+      <node id="Vila Matilde">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="389.0717" y="-463.7458"></viz:position>
+      </node>
+      <node id="Guilhermina-Esperança">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="408.86508" y="132.06598"></viz:position>
+      </node>
+      <node id="Patriarca">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-507.96875" y="355.13794"></viz:position>
+      </node>
+      <node id="Artur Alvim">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.62364" y="-417.3284"></viz:position>
+      </node>
+      <node id="Corinthians-Itaquera">
+        <attvalues>
+          <attvalue for="linename" value="Vermelha"></attvalue>
+          <attvalue for="line" value="3"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="310.04996" y="-210.25125"></viz:position>
+      </node>
+      <node id="São Paulo-Morumbi">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-156.12202" y="-250.45734"></viz:position>
+      </node>
+      <node id="Butantã">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-410.25003" y="-16.689398"></viz:position>
+      </node>
+      <node id="Pinheiros">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="275.48593" y="455.4696"></viz:position>
+      </node>
+      <node id="Faria Lima">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="176.3737" y="-123.29282"></viz:position>
+      </node>
+      <node id="Fradique Coutinho">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-510.56052" y="453.69904"></viz:position>
+      </node>
+      <node id="Oscar Freire">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.48872" y="-405.48935"></viz:position>
+      </node>
+      <node id="Paulista">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-458.8931" y="171.69012"></viz:position>
+      </node>
+      <node id="Higienópolis-Mackenzie">
+        <attvalues>
+          <attvalue for="linename" value="Amarela"></attvalue>
+          <attvalue for="line" value="4"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="166.20409" y="-421.4223"></viz:position>
+      </node>
+      <node id="Capão Redondo">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.99821" y="-252.74707"></viz:position>
+      </node>
+      <node id="Campo Limpo">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-132.28123" y="178.22754"></viz:position>
+      </node>
+      <node id="Vila das Belezas">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-248.23344" y="-347.48987"></viz:position>
+      </node>
+      <node id="Giovanni Gronchi">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.387434" y="-163.31906"></viz:position>
+      </node>
+      <node id="Santo Amaro">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="465.7864" y="272.41095"></viz:position>
+      </node>
+      <node id="Largo Treze">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="368.26114" y="-24.646582"></viz:position>
+      </node>
+      <node id="Adolfo Pinheiro">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.825361" y="-92.93311"></viz:position>
+      </node>
+      <node id="Alto da Boa Vista">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-286.07416" y="170.75946"></viz:position>
+      </node>
+      <node id="Borba Gato">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="267.3024" y="-199.03345"></viz:position>
+      </node>
+      <node id="Brooklin">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-96.318985" y="243.19891"></viz:position>
+      </node>
+      <node id="Campo Belo">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-507.69623" y="-32.83329"></viz:position>
+      </node>
+      <node id="Eucaliptos">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-485.61676" y="432.06104"></viz:position>
+      </node>
+      <node id="Moema">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-377.84845" y="-229.15424"></viz:position>
+      </node>
+      <node id="AACD-Servidor">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="204.6079" y="-80.50477"></viz:position>
+      </node>
+      <node id="Hospital São Paulo">
+        <attvalues>
+          <attvalue for="linename" value="Lilás"></attvalue>
+          <attvalue for="line" value="5"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="77.32768" y="464.1443"></viz:position>
+      </node>
+      <node id="Água Branca">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.38438" y="-417.63818"></viz:position>
+      </node>
+      <node id="Lapa">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.222244" y="123.00701"></viz:position>
+      </node>
+      <node id="Piqueri">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="426.6116" y="1.7900938"></viz:position>
+      </node>
+      <node id="Pirituba">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="373.0956" y="-273.22058"></viz:position>
+      </node>
+      <node id="Vila Clarice">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="299.3619" y="440.3357"></viz:position>
+      </node>
+      <node id="Jaraguá">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="413.81656" y="442.601"></viz:position>
+      </node>
+      <node id="Perus">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="341.6326" y="-291.35797"></viz:position>
+      </node>
+      <node id="Caieiras">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="332.02414" y="-470.8231"></viz:position>
+      </node>
+      <node id="Franco da Rocha">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-338.29166" y="-413.32397"></viz:position>
+      </node>
+      <node id="Baltazar Fidélis">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-348.29938" y="-341.70258"></viz:position>
+      </node>
+      <node id="Francisco Morato">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="43.144573" y="-260.97885"></viz:position>
+      </node>
+      <node id="Botujuru">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-453.2715" y="-132.48383"></viz:position>
+      </node>
+      <node id="Campo Limpo Paulista">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.489363" y="-130.62378"></viz:position>
+      </node>
+      <node id="Várzea Paulista">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-232.82161" y="-196.31607"></viz:position>
+      </node>
+      <node id="Jundiaí">
+        <attvalues>
+          <attvalue for="linename" value="Rubi"></attvalue>
+          <attvalue for="line" value="7"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="75.207016" y="196.3211"></viz:position>
+      </node>
+      <node id="Júlio Prestes">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-257.50757" y="394.57678"></viz:position>
+      </node>
+      <node id="Domingos de Moraes">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-268.1262" y="200.57526"></viz:position>
+      </node>
+      <node id="Imperatriz Leopoldina">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="213.40111" y="-405.3553"></viz:position>
+      </node>
+      <node id="Presidente Altino">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="145.56248" y="-6.610602"></viz:position>
+      </node>
+      <node id="Osasco">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="182.88676" y="390.94617"></viz:position>
+      </node>
+      <node id="Comandante Sampaio">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.43791" y="-413.626"></viz:position>
+      </node>
+      <node id="Quitaúna">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.23509" y="-173.37613"></viz:position>
+      </node>
+      <node id="General Miguel Costa (ex km 21)">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-167.06404" y="-195.01794"></viz:position>
+      </node>
+      <node id="Carapicuíba">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-38.81026" y="401.81525"></viz:position>
+      </node>
+      <node id="Santa Terezinha">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-504.50134" y="-418.9704"></viz:position>
+      </node>
+      <node id="Antônio João">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="101.45543" y="-154.31955"></viz:position>
+      </node>
+      <node id="Barueri">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-51.30788" y="-115.951454"></viz:position>
+      </node>
+      <node id="Jardim Belval">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="400.26767" y="-81.730354"></viz:position>
+      </node>
+      <node id="Jardim Silveira">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-149.36641" y="-393.06683"></viz:position>
+      </node>
+      <node id="Jandira">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="235.47734" y="-402.75873"></viz:position>
+      </node>
+      <node id="Sagrado Coração">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="463.00638" y="308.2539"></viz:position>
+      </node>
+      <node id="Engenheiro Cardoso">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="33.57121" y="-268.01944"></viz:position>
+      </node>
+      <node id="Itapevi">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="64.54283" y="-168.22269"></viz:position>
+      </node>
+      <node id="Santa Rita">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-522.71906" y="6.4576964"></viz:position>
+      </node>
+      <node id="Amador Bueno">
+        <attvalues>
+          <attvalue for="linename" value="Diamante"></attvalue>
+          <attvalue for="line" value="8"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.70677" y="473.14368"></viz:position>
+      </node>
+      <node id="Ceasa">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.09685" y="-157.79605"></viz:position>
+      </node>
+      <node id="Vila Lobos-Jaguaré">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="77.40947" y="-455.6798"></viz:position>
+      </node>
+      <node id="Cidade Universitária">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-310.81326" y="-305.9273"></viz:position>
+      </node>
+      <node id="Hebraica-Rebouças">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.94235" y="-101.64167"></viz:position>
+      </node>
+      <node id="Cidade Jardim">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.614788" y="43.99212"></viz:position>
+      </node>
+      <node id="Vila Olímpia">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="470.915" y="220.15192"></viz:position>
+      </node>
+      <node id="Berrini">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-15.862871" y="281.70428"></viz:position>
+      </node>
+      <node id="Morumbi">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-247.16563" y="-336.69702"></viz:position>
+      </node>
+      <node id="Granja Julieta">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.1129" y="-423.47437"></viz:position>
+      </node>
+      <node id="Socorro">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="272.0657" y="-281.1307"></viz:position>
+      </node>
+      <node id="Jurubatuba">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="197.1403" y="-209.54803"></viz:position>
+      </node>
+      <node id="Autódromo">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="221.26665" y="38.679253"></viz:position>
+      </node>
+      <node id="Primavera-Interlagos">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.7518" y="460.47076"></viz:position>
+      </node>
+      <node id="Grajaú">
+        <attvalues>
+          <attvalue for="linename" value="Esmeralda"></attvalue>
+          <attvalue for="line" value="9"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.985884" y="304.0661"></viz:position>
+      </node>
+      <node id="Mooca">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="158.53343" y="-113.26798"></viz:position>
+      </node>
+      <node id="Ipiranga">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="432.9717" y="130.2851"></viz:position>
+      </node>
+      <node id="São Caetano">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.48988" y="403.26904"></viz:position>
+      </node>
+      <node id="Utinga">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="317.83548" y="427.54407"></viz:position>
+      </node>
+      <node id="Prefeito Saladino">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-383.27936" y="-20.75208"></viz:position>
+      </node>
+      <node id="Prefeito Celso Daniel - Santo André">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="53.067974" y="-398.51126"></viz:position>
+      </node>
+      <node id="Capuava">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="99.20439" y="401.26544"></viz:position>
+      </node>
+      <node id="Mauá">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-405.99323" y="469.1515"></viz:position>
+      </node>
+      <node id="Guapituba">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.95744" y="421.00262"></viz:position>
+      </node>
+      <node id="Ribeirão Pires">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="148.20555" y="-209.21655"></viz:position>
+      </node>
+      <node id="Rio Grande da Serra">
+        <attvalues>
+          <attvalue for="linename" value="Turquesa"></attvalue>
+          <attvalue for="line" value="10"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-63.200733" y="417.581"></viz:position>
+      </node>
+      <node id="Itaquera">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-457.24258" y="-126.34431"></viz:position>
+      </node>
+      <node id="Dom Bosco">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-278.56686" y="320.25812"></viz:position>
+      </node>
+      <node id="José Bonifácio">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.47537" y="-209.17099"></viz:position>
+      </node>
+      <node id="Guaianases">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-351.27133" y="-235.36377"></viz:position>
+      </node>
+      <node id="Antônio Gianetti Neto">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-405.5644" y="376.05493"></viz:position>
+      </node>
+      <node id="Ferraz de Vasconcelos">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-444.47925" y="-285.6505"></viz:position>
+      </node>
+      <node id="Poá">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="291.2396" y="305.38623"></viz:position>
+      </node>
+      <node id="Calmon Viana">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="407.4647" y="70.231865"></viz:position>
+      </node>
+      <node id="Suzano">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-488.546" y="256.73718"></viz:position>
+      </node>
+      <node id="Jundiapeba">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-284.17105" y="110.25878"></viz:position>
+      </node>
+      <node id="Brás Cubas">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-208.96205" y="350.55078"></viz:position>
+      </node>
+      <node id="Mogi das Cruzes">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="101.764694" y="-43.90699"></viz:position>
+      </node>
+      <node id="Estudantes">
+        <attvalues>
+          <attvalue for="linename" value="Coral"></attvalue>
+          <attvalue for="line" value="11"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-291.8317" y="-182.10931"></viz:position>
+      </node>
+      <node id="Engenheiro Goulart">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-50.26607" y="-354.14417"></viz:position>
+      </node>
+      <node id="USP Leste">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.7274604" y="116.6928"></viz:position>
+      </node>
+      <node id="Comendador Ermelino">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="405.25272" y="-192.21735"></viz:position>
+      </node>
+      <node id="São Miguel Paulista">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="70.816635" y="-477.42627"></viz:position>
+      </node>
+      <node id="Jardim Helena-Vila Mara">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="66.834335" y="375.71136"></viz:position>
+      </node>
+      <node id="Itaim Paulista">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-100.98869" y="-442.4921"></viz:position>
+      </node>
+      <node id="Jardim Romano">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-402.00787" y="264.8913"></viz:position>
+      </node>
+      <node id="Engenheiro Manoel Feio">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.67673" y="-512.1509"></viz:position>
+      </node>
+      <node id="Itaquaquecetuba">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="142.39012" y="435.38934"></viz:position>
+      </node>
+      <node id="Aracaré">
+        <attvalues>
+          <attvalue for="linename" value="Safira"></attvalue>
+          <attvalue for="line" value="12"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="125.51256" y="-477.41333"></viz:position>
+      </node>
+      <node id="Eng. Goulart">
+        <attvalues>
+          <attvalue for="linename" value="Jade"></attvalue>
+          <attvalue for="line" value="13"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-136.29552" y="310.40863"></viz:position>
+      </node>
+      <node id="Guarulhos-Cecap">
+        <attvalues>
+          <attvalue for="linename" value="Jade"></attvalue>
+          <attvalue for="line" value="13"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="149.59636" y="273.3897"></viz:position>
+      </node>
+      <node id="Aeroporto-Guarulhos">
+        <attvalues>
+          <attvalue for="linename" value="Jade"></attvalue>
+          <attvalue for="line" value="13"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="151.48631" y="88.12475"></viz:position>
+      </node>
+      <node id="Oratório">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="426.55032" y="-500.09186"></viz:position>
+      </node>
+      <node id="São Lucas">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="35.2924" y="88.183525"></viz:position>
+      </node>
+      <node id="Camilo Haddad">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-168.94682" y="156.96173"></viz:position>
+      </node>
+      <node id="Vila Tolstói">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="131.57823" y="-92.207466"></viz:position>
+      </node>
+      <node id="Vila União">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="242.77342" y="284.66412"></viz:position>
+      </node>
+      <node id="Jd. Planalto">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.321394" y="-172.62106"></viz:position>
+      </node>
+      <node id="Sapopemba">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-188.09856" y="338.19147"></viz:position>
+      </node>
+      <node id="Fazenda da Juta">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="221.07433" y="-397.92557"></viz:position>
+      </node>
+      <node id="São Mateus">
+        <attvalues>
+          <attvalue for="linename" value="prata"></attvalue>
+          <attvalue for="line" value="15"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="453.808" y="140.82025"></viz:position>
+      </node>
+    </nodes>
+    <edges></edges>
+  </graph>
+</gexf>
